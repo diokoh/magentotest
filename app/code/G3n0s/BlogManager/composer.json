@@ -1,0 +1,17 @@
+{
+    "name": "G3n0s/blogmanager",
+    "description": "",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "autoload": {
+      "psr-4": {
+        "G3n0s\\BlogManager\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }
